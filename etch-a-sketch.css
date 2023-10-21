@@ -1,6 +1,7 @@
 #board {
     background: plum;
     border: 4px solid indigo;
+    width: 530px;
     padding: 10px;
     display: flex;
     justify-content: center;

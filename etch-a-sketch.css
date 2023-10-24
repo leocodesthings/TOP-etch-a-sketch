@@ -16,3 +16,8 @@
     height: 30px;
     align-self: center;
 }
+
+.colored {
+    background: black;
+}
+

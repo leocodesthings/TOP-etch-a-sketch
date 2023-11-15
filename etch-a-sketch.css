@@ -2,6 +2,7 @@
     background: plum;
     border: 4px solid indigo;
     width: 530px;
+    height: 530px;
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -9,7 +10,7 @@
     flex-wrap: wrap;
 }
 
-.pixel {
+.pixel { /* how to implement automatic sizing of boxes? */
     border: 1px solid black;
     background: white;
     width: 30px;
